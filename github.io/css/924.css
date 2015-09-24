@@ -1,0 +1,65 @@
+.container{
+    width:100%;
+    margin:0 auto;
+    background-color:aquamarine;
+}
+
+.header h1{
+float:left;
+margin:0 50px 0 30px;
+}
+
+.header{
+clear:both;
+padding-bottom: 20px;
+background-color: yellow;
+}
+
+.header ul{
+    padding-top: 10px;  
+}
+
+nav ul li {
+    margin-top:10px;
+    padding-left:20px;		    
+    display:inline;   
+}
+.content{
+ width:75%;
+    float: left;
+    
+}
+ .content img{
+     float:left;
+     margin:0 20px;
+ }
+.top-content{
+ clear:both;height:20px
+}
+
+.description{
+            clear:right;
+            padding:10px 20px 0;
+            
+}
+
+.aside{         
+    float:right;
+    width:20%;
+    height:500px;
+    padding:10px;
+    background:#99c;
+}
+	
+.footer {
+        clear:both;
+        padding:5px 10px;
+        background:#cc9;
+        text-align: center;
+}
+
+.section{
+    float:left;
+    width:20%;
+    margin-top:15%;
+}
